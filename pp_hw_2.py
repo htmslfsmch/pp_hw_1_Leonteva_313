@@ -1,5 +1,5 @@
 counter = int(input("Количество чисел:"))
-
+#какое-то изменение
 y = 0
 
 for i in range(counter):
